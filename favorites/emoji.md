@@ -286,3 +286,166 @@
 | 🔖   | ` :bookmark:`                       | 🍆   | ` :eggplant:`                |
 | 📛   | ` :name_badge:`                     | 🍅   | ` :tomato:`                  |
 | 🔬   | ` :microscope:`                     | 🌽   | ` :corn:`                    |
+
+### Places
+
+| 效果 | 代号                        | 效果 | 代号                         |
+| ---- | --------------------------- | ---- | ---------------------------- |
+| 🏠   | ` :house:`                  | 🚗   | ` :red_car:`                 |
+| 🏡   | ` :house_with_garden:`      | 🚕   | ` :taxi:`                    |
+| 🏫   | ` :school:`                 | 🚖   | ` :oncoming_taxi:`           |
+| 🏢   | ` :office:`                 | 🚛   | ` :articulated_lorry:`       |
+| 🏣   | `:post_office:`             | 🚌   | ` :bus:`                     |
+| 🏥   | `:hospital:`                | 🚍   | ` :oncoming_bus:`            |
+| 🏦   | ` :bank:`                   | 🚨   | ` :rotating_light:`          |
+| 🏪   | ` :convenience_store:`      | 🚓   | ` :police_car:`              |
+| 🏩   | ` :love_hotel:`             | 🚔   | `:oncoming_police_car:`      |
+| 🏨   | `:hotel:`                   | 🚒   | `:fire_engine:`              |
+| 💒   | `:wedding:`                 | 🚑   | ` :ambulance:`               |
+| ⛪   | `:church:`                  | 🚐   | ` :minibus:`                 |
+| 🏬   | ` :department_store:`       | 🚚   | ` :truck:`                   |
+| 🏤   | ` :european_post_office:`   | 🚋   | ` :train:`                   |
+| 🌇   | `:city_sunrise:`            | 🚉   | ` :station:`                 |
+| 🌆   | `:city_sunset:`             | 🚆   | ` :train2:`                  |
+| 🏯   | ` :japanese_castle:`        | 🚅   | ` :bullettrain_front:`       |
+| 🏰   | `:european_castle:`         | 🚄   | ` :bullettrain_side:`        |
+| ⛺   | ` :tent:`                   | 🚈   | ` :light_rail:`              |
+| 🏭   | ` :factory:`                | 🚝   | ` :monorail:`                |
+| 🗼   | ` :tokyo_tower:`            | 🚃   | ` :railway_car:`             |
+| 🗾   | `:japan:`                   | 🚎   | ` :trolleybus:`              |
+| 🗻   | ` :mount_fuji:`             | 🎫   | ` :ticket:`                  |
+| 🌄   | ` :sunrise_over_mountains:` | ⛽   | `:fuelpump:`                 |
+| 🌅   | `:sunrise:`                 | 🚦   | ` :vertical_traffic_light:`  |
+| 🌠   | `:stars:`                   | 🚥   | `:traffic_light:`            |
+| 🗽   | `:statue_of_liberty:`       | ⚠️   | ` :warning:`                 |
+| 🌉   | `:bridge_at_night:`         | 🚧   | ` :construction:`            |
+| 🎠   | ` :carousel_horse:`         | 🔰   | ` :beginner:`                |
+| 🌈   | `:rainbow:`                 | 🏧   | `:atm:`                      |
+| 🎡   | ` :ferris_wheel:`           | 🎰   | `:slot_machine:`             |
+| ⛲   | ` :fountain:`               | 🚏   | ` :busstop:`                 |
+| 🎢   | ` :roller_coaster:`         | 💈   | ` :barber:`                  |
+| 🚢   | ` :ship:`                   | ♨️   | ` :hotsprings:`              |
+| 🚤   | `:speedboat:`               | 🏁   | ` :checkered_flag:`          |
+| ⛵   | ` :boat:`                   | 🎌   | ` :crossed_flags:`           |
+| ⛵   | ` :sailboat:`               | 🏮   | ` :izakaya_lantern:`         |
+| 🚣   | `:rowboat:`                 | 🗿   | ` :moyai:`                   |
+| ⚓   | ` :anchor:`                 | 🎪   | ` :circus_tent:`             |
+| 🚀   | `:rocket:`                  | 🎭   | ` :performing_arts:`         |
+| ✈️   | `:airplane:`                | 📍   | ` :round_pushpin:`           |
+| 🚁   | ` :helicopter:`             | 🚩   | ` :triangular_flag_on_post:` |
+| 🚂   | `:steam_locomotive:`        | 🇯🇵   | ` :jp:`                      |
+| 🚊   | ` :tram:`                   | 🇰🇷   | ` :kr:`                      |
+| 🚞   | ` :mountain_railway:`       | 🇨🇳   | ` :cn:`                      |
+| 🚲   | `:bike:`                    | 🇺🇸   | ` :us:`                      |
+| 🚡   | `:aerial_tramway:`          | 🇫🇷   | ` :fr:`                      |
+| 🚟   | ` :suspension_railway:`     | 🇪🇸   | ` :es:`                      |
+| 🚠   | `:mountain_cableway:`       | 🇮🇹   | ` :it:`                      |
+| 🚜   | `:tractor:`                 | 🇷🇺   | ` :ru:`                      |
+| 🚙   | `:blue_car:`                | 🇬🇧   | `:gb:`                       |
+| 🚘   | ` :oncoming_automobile:`    | 🇬🇧   | ` :uk:`                      |
+| 🚗   | ` :car:`                    | 🇩🇪   | ` :de:`                      |
+
+### Symbols
+
+| 效果 | 代号                           | 效果 | 代号                                 |
+| ---- | ------------------------------ | ---- | ------------------------------------ |
+| 1️⃣   | ` :one:`                       | ✴️   | ` :eight_pointed_black_star:`        |
+| 2️⃣   | `:two:`                        | 💟   | `:heart_decoration:`                 |
+| 3️⃣   | `:three:`                      | 🆚   | ` :vs:`                              |
+| 4️⃣   | `:four:`                       | 📳   | ` :vibration_mode:`                  |
+| 5️⃣   | `:five:`                       | 📴   | ` :mobile_phone_off:`                |
+| 6️⃣   | `:six:`                        | 💹   | ` :chart:`                           |
+| 7️⃣   | ` :seven:`                     | 💱   | ` :currency_exchange:`               |
+| 8️⃣   | `:eight:`                      | ♈   | ` :aries:`                           |
+| 9️⃣   | `:nine:`                       | ♉   | `:taurus:`                           |
+| 🔟   | ` :keycap_ten:`                | ♊   | ` :gemini:`                          |
+| 🔢   | ` :1234:`                      | ♋   | `:cancer:`                           |
+| 0️⃣   | `:zero:`                       | ♌   | `:leo:`                              |
+| 🔣   | `:symbols:`                    | ♎   | ` :libra:`                           |
+| ◀️   | `:arrow_backward:`             | ♏   | `:scorpius:`                         |
+| ⬇️   | `:arrow_down:`                 | ♐   | `:sagittarius:`                      |
+| ▶️   | `:arrow_forward:`              | ♑   | ` :capricorn:`                       |
+| ⬅️   | ` :arrow_left:`                | ♒   | ` :aquarius:`                        |
+| 🔠   | ` :capital_abcd:`              | ♓   | ` :pisces:`                          |
+| 🔡   | `:abcd:`                       | ⛎   | `:ophiuchus:`                        |
+| 🔤   | `:abc:`                        | 🔯   | `:six_pointed_star:`                 |
+| ↙️   | ` :arrow_lower_left:`          | ❎   | `:negative_squared_cross_mark:`      |
+| ↘️   | `:arrow_lower_right:`          | 🅰️   | ` :a:`                               |
+| ➡️   | `:arrow_right:`                | 🅱️   | ` :b:`                               |
+| ⬆️   | `:arrow_up:`                   | 🆎   | ` :ab:`                              |
+| ↖️   | `:arrow_upper_left:`           | 🅾️   | ` :o2:`                              |
+| ↗️   | `:arrow_upper_right:`          | 💠   | ` :diamond_shape_with_a_dot_inside:` |
+| ⏬   | `:arrow_double_down:`          | ♻️   | ` :recycle:`                         |
+| ⏫   | `:arrow_double_up:`            | 🔚   | ` :end:`                             |
+| 🔽   | ` :arrow_down_small:`          | 🔙   | ` :back:`                            |
+| ⤵️   | ` :arrow_heading_down:`        | 🔛   | ` :on:`                              |
+| ⤴️   | ` :arrow_heading_up:`          | 🔜   | ` :soon:`                            |
+| ↩️   | ` :leftwards_arrow_with_hook:` | 🕐   | ` :clock1:`                          |
+| ↪️   | ` :arrow_right_hook:`          | 🕜   | ` :clock130:`                        |
+| ↔️   | ` :left_right_arrow:`          | 🕙   | ` :clock10:`                         |
+| ↕️   | ` :arrow_up_down:`             | 🕥   | ` :clock1030:`                       |
+| 🔼   | `:arrow_up_small:`             | 🕚   | ` :clock11:`                         |
+| 🔃   | `:arrows_clockwise:`           | 🕦   | ` :clock1130:`                       |
+| 🔄   | `:arrows_counterclockwise:`    | 🕛   | ` :clock12:`                         |
+| ⏪   | `:rewind:`                     | 🕧   | ` :clock1230:`                       |
+| ⏩   | `:fast_forward:`               | 🕑   | ` :clock2:`                          |
+| ℹ️   | `:information_source:`         | 🕝   | `:clock230:`                         |
+| 🆗   | ` :ok:`                        | 🕒   | ` :clock3:`                          |
+| 🔀   | ` :twisted_rightwards_arrows:` | 🕞   | ` :clock330:`                        |
+| 🔁   | `:repeat:`                     | 🕓   | `:clock4:`                           |
+| 🔂   | ` :repeat_one:`                | 🕟   | ` :clock430:`                        |
+| 🆕   | `:new:`                        | 🕔   | ` :clock5:`                          |
+| 🔝   | `:top:`                        | 🕠   | ` :clock530:`                        |
+| 🆙   | ` :up:`                        | 🕕   | ` :clock6:`                          |
+| 🆒   | ` :cool:`                      | 🕡   | ` :clock630:`                        |
+| 🆓   | ` :free:`                      | 🕖   | ` :clock7:`                          |
+| 🆖   | `:ng:`                         | 🕢   | ` :clock730:`                        |
+| 🎦   | `:cinema:`                     | 🕗   | ` :clock8:`                          |
+| 🈁   | `:koko:`                       | 🕣   | ` :clock830:`                        |
+| 📶   | `:signal_strength:`            | 🕘   | ` :clock9:`                          |
+| 🈹   | ` :u5272:`                     | 🕤   | ` :clock930:`                        |
+| 🈴   | `:u5408:`                      | 💲   | ` :heavy_dollar_sign:`               |
+| 🈺   | `:u55b6:`                      | ©️   | ` :copyright:`                       |
+| 🈯   | `:u6307:`                      | ®️   | ` :registered:`                      |
+| 🈷️   | `:u6708:`                      | ™️   | ` :tm:`                              |
+| 🈶   | `:u6709:`                      | ❌   | `:x:`                                |
+| 🈵   | `:u6e80:`                      | ❗   | `:heavy_exclamation_mark:`           |
+| 🈚   | `:u7121:`                      | ‼️   | ` :bangbang:`                        |
+| 🈸   | `:u7533:`                      | ⁉️   | ` :interrobang:`                     |
+| 🈳   | `:u7a7a:`                      | ⭕   | `:o:`                                |
+| 🈲   | `:u7981:`                      | ✖️   | `:heavy_multiplication_x:`           |
+| 🈂️   | `:sa:`                         | ➕   | ` :heavy_plus_sign:`                 |
+| 🚻   | ` :restroom:`                  | ➖   | `:heavy_minus_sign:`                 |
+| 🚹   | ` :mens:`                      | ➗   | `:heavy_division_sign:`              |
+| 🚺   | ` :womens:`                    | 💮   | ` :white_flower:`                    |
+| 🚼   | `:baby_symbol:`                | 💯   | `:100:`                              |
+| 🚭   | `:no_smoking:`                 | ✔️   | `:heavy_check_mark:`                 |
+| 🅿️   | `:parking:`                    | ☑️   | ` :ballot_box_with_check:`           |
+| ♿   | ` :wheelchair:`                | 🔘   | ` :radio_button:`                    |
+| 🚇   | ` :metro:`                     | 🔗   | ` :link:`                            |
+| 🛄   | ` :baggage_claim:`             | ➰   | `:curly_loop:`                       |
+| 🉑   | ` :accept:`                    | 〰️   | `:wavy_dash:`                        |
+| 🚾   | ` :wc:`                        | 〽️   | ` :part_alternation_mark:`           |
+| 🚰   | ` :potable_water:`             | 🔱   | ` :trident:`                         |
+| 🚮   | `:put_litter_in_its_place:`    | ▪️   | ` :black_small_square:`              |
+| ㊙️   | ` :secret:`                    | ▫️   | ` :white_small_square:`              |
+| ㊗️   | `:congratulations:`            | ◾   | ` :black_medium_small_square:`       |
+| Ⓜ️   | `:m:`                          | ◽   | `:white_medium_small_square:`        |
+| 🛂   | ` :passport_control:`          | ◼️   | `:black_medium_square:`              |
+| 🛅   | ` :left_luggage:`              | ◻️   | ` :white_medium_square:`             |
+| 🛃   | ` :customs:`                   | ⬛   | ` :black_large_square:`              |
+| 🉐   | `:ideograph_advantage:`        | ⬜   | `:white_large_square:`               |
+| 🆑   | `:cl:`                         | ✅   | ` :white_check_mark:`                |
+| 🆘   | `:sos:`                        | 🔲   | ` :black_square_button:`             |
+| 🆔   | `:id:`                         | 🔳   | ` :white_square_button:`             |
+| 🚫   | `:no_entry_sign:`              | ⚫   | ` :black_circle:`                    |
+| 🔞   | ` :underage:`                  | ⚪   | ` :white_circle:`                    |
+| 📵   | ` :no_mobile_phones:`          | 🔴   | ` :red_circle:`                      |
+| 🚯   | `:do_not_litter:`              | 🔵   | ` :large_blue_circle:`               |
+| 🚱   | `:non-potable_water:`          | 🔷   | ` :large_blue_diamond:`              |
+| 🚳   | ` :no_bicycles:`               | 🔶   | ` :large_orange_diamond:`            |
+| 🚷   | ` :no_pedestrians:`            | 🔹   | `:small_blue_diamond:`               |
+| 🚸   | `:children_crossing:`          | 🔸   | ` :small_orange_diamond:`            |
+| ⛔   | ` :no_entry:`                  | 🔺   | ` :small_red_triangle:`              |
+| ✳️   | `:eight_spoked_asterisk:`      | 🔻   | ` :small_red_triangle_down:`         |
+| ❇️   | ` :sparkle:`                   |
