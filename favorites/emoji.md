@@ -151,3 +151,138 @@
 | 🐅   | `:tiger2: `         | ⛅   | ` :partly_sunny:`                      |
 | 🐇   | `:rabbit2: `        | 🐐   | ` :goat:`                              |
 | 🐉   | `:dragon:`          |
+
+### Objects
+
+| 效果 | 代号                                | 效果 | 代号                         |
+| ---- | ----------------------------------- | ---- | ---------------------------- |
+| 🎍   | `:bamboo:`                          | 🔭   | ` :telescope:`               |
+| 💝   | ` :gift_heart:`                     | 📰   | ` :newspaper:`               |
+| 🎎   | ` :dolls:`                          | 🏈   | ` :football:`                |
+| 🎒   | `:school_satchel:`                  | 🏀   | ` :basketball:`              |
+| 🎓   | ` :mortar_board:`                   | ⚽   | ` :soccer:`                  |
+| 🎏   | `:flags:`                           | ⚾   | ` :baseball:`                |
+| 🎆   | `:fireworks:`                       | 🎾   | ` :tennis:`                  |
+| 🎇   | `:sparkler:`                        | 🎱   | ` :8ball:`                   |
+| 🎐   | `:wind_chime:`                      | 🏉   | ` :rugby_football:`          |
+| 🎑   | `:rice_scene:`                      | 🎳   | ` :bowling:`                 |
+| 🎃   | ` :jack_o_lantern:`                 | ⛳   | ` :golf:`                    |
+| 👻   | `:ghost:`                           | 🚵   | `:mountain_bicyclist:`       |
+| 🎅   | `:santa:`                           | 🚴   | `:bicyclist:`                |
+| 🎄   | `:christmas_tree:`                  | 🏇   | ` :horse_racing:`            |
+| 🎁   | ` :gift:`                           | 🏂   | ` :snowboarder:`             |
+| 🔔   | `:bell:`                            | 🏊   | ` :swimmer:`                 |
+| 🔕   | ` :no_bell:`                        | 🏄   | ` :surfer:`                  |
+| 🎋   | ` :tanabata_tree:`                  | 🎿   | ` :ski:`                     |
+| 🎉   | `:tada:`                            | ♠️   | ` :spades:`                  |
+| 🎊   | ` :confetti_ball:`                  | ♥️   | ` :hearts:`                  |
+| 🎈   | `:balloon:`                         | ♣️   | ` :clubs:`                   |
+| 🔮   | ` :crystal_ball:`                   | ♦️   | ` :diamonds:`                |
+| 💿   | `:cd:`                              | 💎   | ` :gem:`                     |
+| 📀   | `:dvd:`                             | 💍   | ` :ring:`                    |
+| 💾   | `:floppy_disk:`                     | 🏆   | ` :trophy:`                  |
+| 📷   | ` :camera:`                         | 🎼   | ` :musical_score:`           |
+| 📹   | ` :video_camera:`                   | 🎹   | ` :musical_keyboard:`        |
+| 🎥   | ` :movie_camera:`                   | 🎻   | ` :violin:`                  |
+| 💻   | `:computer:`                        | 👾   | ` :space_invader:`           |
+| 📺   | `:tv:`                              | 🎮   | ` :video_game:`              |
+| 📱   | `:iphone:`                          | 🃏   | ` :black_joker:`             |
+| ☎️   | `:phone:`                           | 🎴   | ` :flower_playing_cards:`    |
+| ☎️   | ` :telephone:`                      | 🎲   | ` :game_die:`                |
+| 📞   | ` :telephone_receiver:`             | 🎯   | ` :dart:`                    |
+| 📟   | `:pager:`                           | 🀄   | ` :mahjong:`                 |
+| 📠   | `:fax:`                             | 🎬   | ` :clapper:`                 |
+| 💽   | ` :minidisc:`                       | 📝   | ` :memo:`                    |
+| 📼   | `:vhs:`                             | 📝   | ` :pencil:`                  |
+| 🔉   | ` :sound:`                          | 📖   | ` :book:`                    |
+| 🔈   | ` :speaker:`                        | 🎨   | ` :art:`                     |
+| 🔇   | `:mute:`                            | 🎤   | ` :microphone:`              |
+| 📢   | `:loudspeaker:`                     | 🎧   | ` :headphones:`              |
+| 📣   | `:mega:`                            | 🎺   | `:trumpet:`                  |
+| ⌛   | ` :hourglass:`                      | 🎷   | ` :saxophone:`               |
+| ⏳   | ` :hourglass_flowing_sand:`         | 🎸   | ` :guitar:`                  |
+| ⏰   | `:alarm_clock:`                     | 👞   | ` :shoe:`                    |
+| ⌚   | `:watch:`                           | 👡   | ` :sandal:`                  |
+| 📻   | ` :radio:`                          | 👠   | ` :high_heel:`               |
+| 📡   | `:satellite:`                       | 💄   | ` :lipstick:`                |
+| ➿   | `:loop:`                            | 👢   | ` :boot:`                    |
+| 🔍   | `:mag:`                             | 👕   | ` :shirt:`                   |
+| 🔎   | ` :mag_right:`                      | 👕   | ` :tshirt:`                  |
+| 🔓   | `:unlock:`                          | 👔   | ` :necktie:`                 |
+| 🔒   | ` :lock:`                           | 👚   | `:womans_clothes:`           |
+| 🔏   | `:lock_with_ink_pen:`               | 👗   | ` :dress:`                   |
+| 🔐   | `:closed_lock_with_key:`            | 🎽   | ` :running_shirt_with_sash:` |
+| 🔑   | `:key:`                             | 👖   | ` :jeans:`                   |
+| 💡   | ` :bulb:`                           | 👘   | ` :kimono:`                  |
+| 🔦   | ` :flashlight:`                     | 👙   | ` :bikini:`                  |
+| 🔆   | `:high_brightness:`                 | 🎀   | ` :ribbon:`                  |
+| 🔅   | ` :low_brightness:`                 | 🎩   | ` :tophat:`                  |
+| 🔌   | `:electric_plug:`                   | 👑   | ` :crown:`                   |
+| 🔋   | `:battery:`                         | 👒   | ` :womans_hat:`              |
+| 📲   | `:calling:`                         | 👞   | ` :mans_shoe:`               |
+| ✉️   | `:email:`                           | 🌂   | ` :closed_umbrella:`         |
+| 📫   | `:mailbox:`                         | 💼   | ` :briefcase:`               |
+| 📮   | `:postbox:`                         | 👜   | ` :handbag:`                 |
+| 🛀   | ` :bath:`                           | 👝   | ` :pouch:`                   |
+| 🛁   | `:bathtub:`                         | 👛   | ` :purse:`                   |
+| 🚿   | ` :shower:`                         | 👓   | ` :eyeglasses:`              |
+| 🚽   | ` :toilet:`                         | 🎣   | ` :fishing_pole_and_fish:`   |
+| 🔧   | `:wrench:`                          | ☕   | `:coffee:`                   |
+| 🔩   | `:nut_and_bolt:`                    | 🍵   | ` :tea:`                     |
+| 🔨   | ` :hammer:`                         | 🍶   | ` :sake:`                    |
+| 💺   | ` :seat:`                           | 🍼   | ` :baby_bottle:`             |
+| 💰   | ` :moneybag:`                       | 🍺   | ` :beer:`                    |
+| 💴   | `:yen:`                             | 🍻   | ` :beers:`                   |
+| 💵   | ` :dollar:`                         | 🍸   | ` :cocktail:`                |
+| 💷   | `:pound:`                           | 🍹   | ` :tropical_drink:`          |
+| 💶   | ` :euro:`                           | 🍷   | `:wine_glass:`               |
+| 💳   | `:credit_card:`                     | 🍴   | ` :fork_and_knife:`          |
+| 💸   | `:money_with_wings:`                | 🍕   | ` :pizza:`                   |
+| 📧   | ` :e-mail:`                         | 🍔   | ` :hamburger:`               |
+| 📥   | `:inbox_tray:`                      | 🍟   | ` :fries:`                   |
+| 📤   | `:outbox_tray:`                     | 🍗   | ` :poultry_leg:`             |
+| ✉️   | ` :envelope:`                       | 🍖   | ` :meat_on_bone:`            |
+| 📨   | ` :incoming_envelope:`              | 🍝   | ` :spaghetti:`               |
+| 📯   | `:postal_horn:`                     | 🍛   | ` :curry:`                   |
+| 📪   | `:mailbox_closed:`                  | 🍤   | ` :fried_shrimp:`            |
+| 📬   | `:mailbox_with_mail:`               | 🍱   | ` :bento:`                   |
+| 📭   | ` :mailbox_with_no_mail:`           | 🍣   | ` :sushi:`                   |
+| 📦   | `:package:`                         | 🍥   | ` :fish_cake:`               |
+| 🚪   | `:door:`                            | 🍙   | ` :rice_ball:`               |
+| 🚬   | `:smoking:`                         | 🍘   | ` :rice_cracker:`            |
+| 💣   | `:bomb:`                            | 🍚   | ` :rice:`                    |
+| 🔫   | `:gun:`                             | 🍜   | ` :ramen:`                   |
+| 🔪   | `:hocho:`                           | 🍲   | ` :stew:`                    |
+| 💊   | ` :pill:`                           | 🍢   | ` :oden:`                    |
+| 💉   | `:syringe:`                         | 🍡   | ` :dango:`                   |
+| 📄   | ` :page_facing_up:`                 | 🥚   | ` :egg:`                     |
+| 📃   | `:page_with_curl:`                  | 🍞   | ` :bread:`                   |
+| 📑   | `:bookmark_tabs:`                   | 🍩   | ` :doughnut:`                |
+| 📊   | `:bar_chart:`                       | 🍮   | ` :custard:`                 |
+| 📈   | ` :chart_with_upwards_trend:`       | 🍦   | ` :icecream:`                |
+| 📉   | ` :chart_with_downwards_trend:`     | 🍨   | ` :ice_cream:`               |
+| 📜   | ` :scroll:`                         | 🍧   | ` :shaved_ice:`              |
+| 📋   | ` :clipboard:`                      | 🎂   | `:birthday:`                 |
+| 📆   | ` :calendar:`                       | 🍰   | ` :cake:`                    |
+| 📅   | `:date:`                            | 🍪   | ` :cookie:`                  |
+| 📇   | ` :card_index:`                     | 🍫   | ` :chocolate_bar:`           |
+| 📁   | ` :file_folder:`                    | 🍬   | ` :candy:`                   |
+| 📂   | `:open_file_folder:`                | 🍭   | ` :lollipop:`                |
+| ✂️   | `:scissors:`                        | 🍯   | ` :honey_pot:`               |
+| 📌   | `:pushpin:`                         | 🍎   | ` :apple:`                   |
+| 📎   | `:paperclip:`                       | 🍏   | ` :green_apple:`             |
+| ✒️   | ` :black_nib:`                      | 🍊   | ` :tangerine:`               |
+| ✏️   | ` :pencil2:`                        | 🍋   | ` :lemon:`                   |
+| 📏   | ` :straight_ruler:`                 | 🍒   | ` :cherries:`                |
+| 📐   | `:triangular_ruler:`                | 🍇   | ` :grapes:`                  |
+| 📕   | `:closed_book:`                     | 🍉   | ` :watermelon:`              |
+| 📗   | ` :green_book:`                     | 🍓   | ` :strawberry:`              |
+| 📘   | `:blue_book:`                       | 🍑   | ` :peach:`                   |
+| 📙   | `:orange_book:`                     | 🍈   | ` :melon:`                   |
+| 📓   | ` :notebook:`                       | 🍌   | ` :banana:`                  |
+| 📔   | ` :notebook_with_decorative_cover:` | 🍐   | ` :pear:`                    |
+| 📒   | `:ledger:`                          | 🍍   | ` :pineapple:`               |
+| 📚   | `:books:`                           | 🍠   | ` :sweet_potato:`            |
+| 🔖   | ` :bookmark:`                       | 🍆   | ` :eggplant:`                |
+| 📛   | ` :name_badge:`                     | 🍅   | ` :tomato:`                  |
+| 🔬   | ` :microscope:`                     | 🌽   | ` :corn:`                    |
