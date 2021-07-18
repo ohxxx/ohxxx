@@ -89,3 +89,65 @@
 | 💤   | `:zzz:`                          | 💩                         | `:hankey:` `:poop:` `:shit:` |
 | 💨   | `:dash:`                         | 🔥                         | `:fire:`                     |
 | 💦   | `:sweat_drops:`                  | 🎵                         | `:musical_note:`             |
+
+### Nature
+
+| 效果 | 代号                | 效果 | 代号                                   |
+| ---- | ------------------- | ---- | -------------------------------------- |
+| ☀️   | `:sunny:`           | 🐓   | ` :rooster:`                           |
+| ☔   | `:umbrella:`        | 🐕   | `:dog2:`                               |
+| ☁️   | `:cloud:`           | 🐖   | `:pig2:`                               |
+| ❄️   | `:snowflake:`       | 🐁   | `:mouse2:`                             |
+| ⛄   | `:snowman:`         | 🐂   | ` :ox:`                                |
+| ⚡   | `:zap:`             | 🐲   | `:dragon_face:`                        |
+| 🌀   | `:cyclone:`         | 🐡   | ` :blowfish:`                          |
+| 🌁   | `:foggy:`           | 🐊   | ` :crocodile:`                         |
+| 🌊   | `:ocean:`           | 🐪   | ` :dromedary_camel:`                   |
+| 🐱   | `:cat:`             | 🐆   | ` :leopard:`                           |
+| 🐶   | `:dog:`             | 🐈   | ` :cat2:`                              |
+| 🐭   | `:mouse:`           | 🐩   | ` :poodle:`                            |
+| 🐹   | `:hamster:`         | 🐾   | ` :paw_prints:`                        |
+| 🐰   | `:rabbit:`          | 💐   | ` :bouquet:`                           |
+| 🐺   | `:wolf:`            | 🌸   | ` :cherry_blossom:`                    |
+| 🐸   | `:frog: `           | 🌷   | ` :tulip:`                             |
+| 🐯   | `:tiger:`           | 🍀   | ` :four_leaf_clover:`                  |
+| 🐨   | `:koala:`           | 🌹   | ` :rose:`                              |
+| 🐻   | `:bear:`            | 🌻   | ` :sunflower:`                         |
+| 🐷   | `:pig:`             | 🌺   | ` :hibiscus:`                          |
+| 🐽   | `:pig_nose: `       | 🍁   | ` :maple_leaf:`                        |
+| 🐮   | `:cow:`             | 🍃   | ` :leaves:`                            |
+| 🐗   | `:boar:`            | 🍂   | ` :fallen_leaf:`                       |
+| 🐵   | `:monkey_face:`     | 🌿   | ` :herb:`                              |
+| 🐒   | `:monkey: `         | 🍄   | ` :mushroom:` - `这个蘑菇不能吃！！！` |
+| 🐴   | `:horse:`           | 🌵   | ` :cactus:`                            |
+| 🐎   | `:racehorse:`       | 🌴   | ` :palm_tree:`                         |
+| 🐫   | `:camel:`           | 🌲   | ` :evergreen_tree:`                    |
+| 🐑   | `:sheep:`           | 🌳   | ` :deciduous_tree:`                    |
+| 🐘   | `:elephant:`        | 🌰   | ` :chestnut:`                          |
+| 🐼   | `:panda_face:`      | 🌱   | ` :seedling:`                          |
+| 🐍   | `:snake:`           | 🌼   | ` :blossom:`                           |
+| 🐦   | `:bird: `           | 🌾   | ` :ear_of_rice:`                       |
+| 🐤   | `:baby_chick:`      | 🐚   | ` :shell:`                             |
+| 🐥   | `:hatched_chick:`   | 🌐   | ` :globe_with_meridians:`              |
+| 🐣   | `:hatching_chick: ` | 🌞   | ` :sun_with_face:`                     |
+| 🐔   | `:chicken:`         | 🌝   | ` :full_moon_with_face:`               |
+| 🐧   | `:penguin:`         | 🌚   | ` :new_moon_with_face:`                |
+| 🐢   | `:turtle:`          | 🌑   | ` :new_moon:`                          |
+| 🐛   | `:bug:`             | 🌒   | ` :waxing_crescent_moon:`              |
+| 🐝   | `:honeybee:`        | 🌓   | ` :first_quarter_moon:`                |
+| 🐜   | `:ant:`             | 🌔   | ` :waxing_gibbous_moon:`               |
+| 🐞   | `:beetle: `         | 🌕   | ` :full_moon:`                         |
+| 🐌   | `:snail:`           | 🌖   | ` :waning_gibbous_moon:`               |
+| 🐙   | `:octopus:`         | 🌗   | ` :last_quarter_moon:`                 |
+| 🐠   | `:tropical_fish:`   | 🌘   | ` :waning_crescent_moon:`              |
+| 🐟   | `:fish:`            | 🌜   | ` :last_quarter_moon_with_face:`       |
+| 🐳   | `:whale:`           | 🌛   | ` :first_quarter_moon_with_face:`      |
+| 🐋   | `:whale2: `         | 🌙   | ` :crescent_moon:`                     |
+| 🐬   | `:dolphin: `        | 🌍   | ` :earth_africa:`                      |
+| 🐄   | `:cow2: `           | 🌎   | ` :earth_americas:`                    |
+| 🐏   | `:ram:`             | 🌏   | ` :earth_asia:`                        |
+| 🐀   | `:rat: `            | 🌋   | ` :volcano:`                           |
+| 🐃   | `:water_buffalo:`   | 🌌   | ` :milky_way:`                         |
+| 🐅   | `:tiger2: `         | ⛅   | ` :partly_sunny:`                      |
+| 🐇   | `:rabbit2: `        | 🐐   | ` :goat:`                              |
+| 🐉   | `:dragon:`          |
