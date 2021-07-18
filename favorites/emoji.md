@@ -36,8 +36,7 @@
 | 😓   | `:sweat:`                        | 💁                         | ` :information_desk_person:` |
 | 😥   | `:disappointed_relieved:`        | 🙋                         | ` :raising_hand:`            |
 | 😩   | `:weary:`                        | 👰                         | `:bride_with_veil:`          |
-| 😔   | `:pensive:`                      |
-| 😞   | `:disappointed:`                 |
+| 😔   | `:pensive:`                      | 😞   | `:disappointed:`                 |
 | 😖   | `:confounded:`                   | 🙇                         | `:bow:`                      |
 | 😨   | `:fearful:`                      | 💑                         | ` :couple_with_heart:`       |
 | 😰   | `:cold_sweat:`                   | 💆                         | ` :massage:`                 |
