@@ -36,8 +36,8 @@
 | 😓   | `:sweat:`                        | 💁                         | ` :information_desk_person:` |
 | 😥   | `:disappointed_relieved:`        | 🙋                         | ` :raising_hand:`            |
 | 😩   | `:weary:`                        | 👰                         | `:bride_with_veil:`          |
-| 😔   | `:pensive:`                      | :person_with_pouting_face: | `:person_with_pouting_face:` |
-| 😞   | `:disappointed:`                 | :person_frowning:          | ` :person_frowning:`         |
+| 😔   | `:pensive:`                      |
+| 😞   | `:disappointed:`                 |
 | 😖   | `:confounded:`                   | 🙇                         | `:bow:`                      |
 | 😨   | `:fearful:`                      | 💑                         | ` :couple_with_heart:`       |
 | 😰   | `:cold_sweat:`                   | 💆                         | ` :massage:`                 |
@@ -50,7 +50,7 @@
 | 👶   | `:baby:`                         | 🎶                         | `:notes:`                    |
 | 😫   | `:tired_face:`                   | 👵                         | ` :older_woman:`             |
 | 😠   | `:angry:`                        | 👴                         | ` :older_man:`               |
-| 😡   | `:rage:`                         | :person_with_blond_hair:   | ` :person_with_blond_hair:`  |
+| 😡   | `:rage:`                         | 
 | 😤   | `:triumph:`                      | 👲                         | ` :man_with_gua_pi_mao:`     |
 | 😪   | `:sleepy:`                       | 👳‍♂️                         | `:man_with_turban:`          |
 | 😋   | `:yum:`                          | 👷                         | `:construction_worker:`      |
